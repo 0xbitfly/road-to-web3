@@ -1,5 +1,8 @@
 pragma solidity ^0.8.0;
 
+// contract was deployed at: 
+// https://goerli.etherscan.io/address/0x210C84D8Ed24888C62970e7654CC9b49A3e7BdB3
+
 contract BuyMeACoffee{
 
     event NewMemo(
